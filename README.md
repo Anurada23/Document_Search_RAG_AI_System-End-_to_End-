@@ -1,7 +1,8 @@
 # Retrieval-Augmented Generation (RAG) AI System with LangChain & Hugging Face
 In this demo, we build an End-to-End Retrieval-Augmented Generation (RAG) AI System using LangChain for RAG framework, FAISS for vector store, Hugging Face model as LLM and Gradio for frontend UI. RAG is a framework that improves LLMs by retrieving relevant documents before generating an answer. It typically ingest documents, retrieve similar documents to the ones queried, and the retrieved documents are passed to an LLM to generate an answer.
 
-
+## FrontEnd Preview
+![FrontEnd Preview](images/Capture1.png)
 
 ## Requirements
 1. Hugging Face Transformers:   Local LLM for generation
