@@ -1,0 +1,13 @@
+python -m pip install transformers
+python -m pip install langchain
+python -m pip install faiss-cpu       # use faiss-gpu if you have a CUDA GPU
+python -m pip install torch           # use torch with cuda if you have GPU
+python -m pip install pdfplumber
+python -m pip install sentence-transformers
+python -m pip install gradio
+
+
+python -m pip install pymupdf
+python -m pip install langchain-community
+python -m pip install langchain-huggingface
+
